@@ -1,10 +1,9 @@
 <br>
 
 # Graduation Project
-<p align="center">
+<p align="left">
     <img src="https://github.com/GC210GP/wiki-212/raw/master/presentations/logo.png" width="700px">
 </p>
-
 
 ## Overview
  - Double D
@@ -13,6 +12,12 @@
  - This project's objective is find the best person of blood receiver with ML algorithm and collecting user information throught the flutter app.
  
 <br>
+
+## Related Repositories
+- [**Frontend - Flutter**](https://github.com/GC210GP/flutter-app)
+- [**Backend - Main Server (Spring)**](https://github.com/GC210GP/blood-donation-server)
+- [**Backend - Recommandation Server (Python)**](https://github.com/GC210GP/recommend-server)
+
 
 ## Presentation files
  - [**Sep 15, 2021**](https://github.com/GC210GP/wiki-212/raw/master/presentations/210930_GraduationProject_Team5.pdf) **[Reminding spring semaster]** 
@@ -31,7 +36,7 @@
 
 ## Final Presentation
  - See the link below to watch our project's final presentation video and PDF file.
- - [YouTube](https://www.youtube.com/watch?v=XOqtgyhzIsM)
+ - [YouTube](https://youtu.be/BWMhmzt6TTY)
  - [Final Presentation PDF](https://github.com/GC210GP/wiki-212/raw/master/presentations/211213_GraduationProject_Team5_handout.pdf)
 
  <br><br>
